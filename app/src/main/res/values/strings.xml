@@ -1,0 +1,30 @@
+<resources>
+    <!-- LOGIN SCREEN -->
+    <string name="app_name">MyLyricsApp</string>
+    <string name="login">Entrar</string>
+    <string name="wantRegister">Quero visitar minhas letras de música favoritas!</string>
+    <string name="forgetPass">Esqueci minha senha!</string>
+
+    <!-- REGISTER SCREEN -->
+    <string name="registerBtn">Enviar registro</string>
+    <!-- HINTS -->
+    <string name="hintNickname">Apelido</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintPassword">Senha</string>
+    <string name="hintRepeatPassword">Confirmar Senha</string>
+
+    <!-- ERROR MESSAGES -->
+    <string name="emailRequired">O email é obrigatório</string>
+    <string name="passwordRequired">A senha é obrigatória</string>
+    <string name="passwordMinimumLength">A senha deve ter ao menos 6 caracterers</string>
+    <string name="passwordMaximumLength">A senha deve ter no máximo 15 caracterers</string>
+    <string name="authError">Erro na autenticação:</string>
+    <string name="nicknameRequired">O apelido é obrigatório!</string>
+    <string name="nicknameMinimumLength">O apelido deve conter pelo menos 3 caracteres</string>
+    <string name="nicknameMaximumLength">O apelido deve conter no máximo 15 caracteres</string>
+    <string name="passwordVariying">A confirmação da senha não confere</string>
+    <string name="repeatPasswordRequired">A confirmação de senha é obrigatória</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
